@@ -1,0 +1,48 @@
+# --- Start of sample_resume.txt ---
+
+# Page 1: Executive Summary & Core Skills
+# Johnathan "J.T." Thompson
+# Senior AI/ML Solutions Architect
+# Contact: j.thompson@example.com | LinkedIn: /in/jt_thompson | GitHub: /jt-ai-dev
+
+## Summary
+A highly accomplished AI/ML Solutions Architect with 15+ years of experience, specializing in designing, deploying, and optimizing large-scale Retrieval-Augmented Generation (RAG) and Generative AI systems. Proven track record in leveraging open-source LLMs (Llama, Mistral) and cloud-based platforms to deliver innovative solutions in FinTech and Healthcare sectors. Expert in Python, distributed computing (Spark, Dask), and MLOps practices.
+
+## Core Technical Skills
+* **LLM Frameworks:** LangChain, LlamaIndex, Hugging Face Transformers, Ollama API
+* **Languages:** Python (Expert), Scala, SQL, Bash
+* **ML/AI:** RAG, Prompt Engineering, Fine-Tuning (LoRA, QLoRA), Reinforcement Learning (RLHF)
+* **Vector Databases:** ChromaDB, Pinecone, Weaviate, PgVector
+* **Cloud/DevOps:** AWS (S3, SageMaker, EKS), Docker, Kubernetes, Terraform
+
+# Page 2: Professional Experience - FinTech
+## TechNova Solutions - Lead AI/ML Architect (2018 - Present)
+* Spearheaded the design and deployment of a secure, internal RAG system using **Mistral 7B** and **ChromaDB** to allow financial analysts to query complex internal regulatory documents, reducing compliance research time by 40%.
+* Managed an MLOps team responsible for the continuous integration and deployment of 5+ proprietary LLM models via Kubernetes, ensuring 99.9% uptime.
+* Developed a dynamic prompt engineering pipeline for a customer service chatbot, improving first-call resolution rates by 15% through context-aware generation.
+
+# Page 3: Professional Experience - Healthcare
+## MediData Labs - Solutions Engineer (2012 - 2018)
+* Designed a document ingestion pipeline using **Apache Spark** to process over 10 million electronic health records (EHRs) and convert them into structured knowledge for a later RAG implementation.
+* Implemented a medical transcription summarization service using a fine-tuned **Gemma 2B** model, achieving a 92% accuracy rate in generating clinical notes summaries.
+* Used **Weaviate** to store vector embeddings of patient data, enabling rapid semantic search across disparate medical documents.
+
+# Page 4: Projects & Publications
+## Project: Local RAG Utility CLI (2024)
+* Built a cross-platform command-line interface (CLI) for running RAG against local markdown and PDF files, exclusively using the **Ollama** Python client and a local **Llama 3 8B** model.
+* Open-sourced on GitHub (jt-ai-dev/local-rag-cli). Features included custom chunking strategies and parameter tuning for generation.
+
+## Publication: "The Role of Quantized Models in Edge-RAG Systems" (2023)
+* Authored a peer-reviewed paper examining the performance trade-offs of using 4-bit and 8-bit quantized LLMs (like QLoRA Llama) in RAG applications on resource-constrained devices.
+
+# Page 5: Education & Certifications
+## Education
+* **M.S. Artificial Intelligence**, Massachusetts Institute of Technology (MIT) - 2012
+* **B.S. Computer Science**, Stanford University - 2010
+
+## Certifications
+* AWS Certified Machine Learning – Specialty (2019)
+* Certified Kubernetes Administrator (CKA) (2021)
+* LangChain Developer Certification (2024)
+
+# --- End of sample_resume.txt ---
